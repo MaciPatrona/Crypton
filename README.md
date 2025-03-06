@@ -112,5 +112,5 @@ python crypton.py
 ---
 
 <div align="center">
-  Направено с ❤️ в България
+ MaciPatrona ❤️ 
 </div> 
