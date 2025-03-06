@@ -31,7 +31,7 @@
 
 ```bash
 # Клониране на репозиторито
-git clone https://github.com/yourusername/crypton.git
+git clone https://github.com/MaciPatrona/crypton.git
 
 # Навигиране до директорията
 cd crypton
@@ -103,7 +103,7 @@ python crypton.py
 
 ## 👥 Автори
 
-- [Вашето име](https://github.com/macipatrona) - *Първоначална работа*
+- [Вашето име](https://github.com/MaciPatrona) - *Първоначална работа*
 
 ## 🌟 Покажете своята подкрепа
 
